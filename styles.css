@@ -9,7 +9,7 @@
 	height:100px;
 	background-color:red;
 	display:flex;
-	justify-items:center;
+	justify-content:center;
 	align-items:center;
 	
 }
